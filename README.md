@@ -1,0 +1,2 @@
+# staticmantest
+staticman test app
